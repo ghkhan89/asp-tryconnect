@@ -5,7 +5,4 @@ Code written in ASP.NET v8 to help test communication to SQL Server using connec
 ![image](https://github.com/user-attachments/assets/ac56cd3a-8f84-4b7c-ab3a-0170a0407e38)
 
 
-Code written in Visual Studio 2022 Community Edition
-
-
 To use the code, download the TryConnect.zip and open in Visual Studio to publish/test
