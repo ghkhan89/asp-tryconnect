@@ -1,7 +1,0 @@
-C:\Users\xsql\source\repos\TryConnect\bin\TryConnect.dll.config
-C:\Users\xsql\source\repos\TryConnect\bin\TryConnect.dll
-C:\Users\xsql\source\repos\TryConnect\bin\TryConnect.pdb
-C:\Users\xsql\source\repos\TryConnect\obj\Release\TryConnect.csproj.AssemblyReference.cache
-C:\Users\xsql\source\repos\TryConnect\obj\Release\TryConnect.csproj.CoreCompileInputs.cache
-C:\Users\xsql\source\repos\TryConnect\obj\Release\TryConnect.dll
-C:\Users\xsql\source\repos\TryConnect\obj\Release\TryConnect.pdb
